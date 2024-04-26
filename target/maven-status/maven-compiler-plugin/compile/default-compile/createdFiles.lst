@@ -1,0 +1,6 @@
+com\lifeofal\calendar\handler\CalendarServiceHandlerImpl.class
+com\lifeofal\calendar\controller\CalendarServiceController.class
+com\lifeofal\calendar\handler\CalendarServiceHandler.class
+com\lifeofal\calendar\swagger\SwaggerConfig.class
+com\lifeofal\calendar\application\LoaCalendarServiceApplication.class
+com\lifeofal\calendar\controller\CalendarServiceContract.class
